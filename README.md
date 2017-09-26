@@ -9,4 +9,4 @@ To open the Toolbuilding System:
 
 In your current directory you'll find a potentially useful folder system organizing the various permutations of interactions between tools, as well as a file recommending possible combinations of interest.
 
-This is a work in progress, very much at the embryonic stage.
+This is a work in progress, very much still in the embryonic stage.
